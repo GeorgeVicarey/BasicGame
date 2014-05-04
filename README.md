@@ -5,9 +5,9 @@ Gane made for a module at Uni
 
 
 LIBRARIES used are:
-~~~~~~~~~~~~~~~~~~~
+===================
 
-SDL - SImple Direct MEdia Layer
+SDL - Simple Direct MEdia Layer
 SDL_Image
 SDL_ttf
 
